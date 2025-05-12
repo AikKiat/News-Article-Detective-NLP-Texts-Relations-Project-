@@ -1,0 +1,6 @@
+transformers
+torch
+wikipedia
+newspaper
+IPython
+pyvis.network
