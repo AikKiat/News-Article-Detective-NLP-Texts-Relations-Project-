@@ -2,6 +2,12 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+https://github.com/user-attachments/assets/69479692-278e-446e-8d47-feacc595a530
+
+
+
+
 ### Casual Exploration of the concept of Natural Language Processing (NLP) to seek relations between key words of different news articles / text sources. 
 
 Using BabelScape's REBEL model, this short project can decipher and analyse text corpuses ranging from paragraphs injected directly in the Notebook, to news articles queried online. Based on the BART model which is a powerful transformer model for NLP tasks, REBEL can extract
