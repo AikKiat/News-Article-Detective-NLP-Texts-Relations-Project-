@@ -12,13 +12,13 @@ https://github.com/user-attachments/assets/69479692-278e-446e-8d47-feacc595a530
 Using BabelScape's REBEL model, this short project can decipher and analyse text corpuses ranging from paragraphs injected directly in the Notebook, to news articles queried online. Based on the BART model which is a powerful transformer model for NLP tasks, REBEL can extract
 many keywords out of a text corpus via the seq2seq task. This type of task is used by transformers such as the aforementioned BART, and it generates structured knowledge directly from the text in the form of triplets.
 
-```diff
+
 For example:
 `"The Ring, was destroyed in the Third Age"`
 Output Triplet: `<"Ring","Destroyed","Third Age">`
 
 Thus, REBEL can extract semantic relations such as:
-
+```diff
 -Person-Related Facts:- (Elon Musk, CEO of, Tesla) | (Marie Curie, discovered, radium)
 
 +Organization & Location Relations:+ (Google, headquartered in, Mountain View) | (Amazon, subsidiary of, AWS)
