@@ -1,4 +1,4 @@
-### News Article Detective: A short NLP Text Relations Project <img src="https://github.com/user-attachments/assets/f852d698-a0c8-46a5-adbc-394dd27121ef" style="width:6rem; height:6rem">
+### News Article Detective: A short NLP Text Relations Project <img src="https://github.com/user-attachments/assets/f852d698-a0c8-46a5-adbc-394dd27121ef" style="width:6rem; height:6rem; border-radius: 5rem">
 
 
 
