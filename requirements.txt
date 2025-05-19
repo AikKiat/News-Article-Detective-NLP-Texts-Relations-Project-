@@ -1,6 +1,9 @@
 transformers
 torch
 wikipedia
-newspaper
+newspaper3k
 IPython
-pyvis.network
+pyvis
+GoogleNews
+lxml_html_clean
+pandas
